@@ -1,5 +1,3 @@
 Syntax, identifiers, control statements, functions, recursions, and strings
 Programming style, program documentation
 Lists, dictionaries, tuples and files
-
-New line added.
